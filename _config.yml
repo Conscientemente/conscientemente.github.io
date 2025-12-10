@@ -1,4 +1,10 @@
-###########################################################
+# --- Minimal Mistakes (remote theme) - configuración mínima para GitHub Pages ---
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+plugins:
+  - jekyll-include-cache
+
+# Opcional (elige una "skin" si quieres variar colores)
+# minimal_mistakes_skin: "air"###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
 ### set up your website you should go through all these settings and edit them, but after
