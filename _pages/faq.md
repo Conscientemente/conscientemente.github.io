@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Preguntas Frecuentes"
+permalink: /faq/
+---
+
 # Preguntas Frecuentes (FAQ)
 
 **1. ¿Qué tipo de atención psicológica ofrecen?**  
