@@ -1,7 +1,7 @@
-title: "Conscientemente — Atención Psicológica"
+title: "Conscientemente, atención psicológica"
 subtitle: "Acompañamiento terapéutico con evidencia y calidez humana"
 name: "Diana Riveroz"
-email: "conscientemente24@gmail.com"
+email: "conscientemente524@gmail.com"
 description: "Espacio profesional dedicado a la psicoterapia, psicoeducación y bienestar emocional."
 
 # Theme
@@ -21,7 +21,7 @@ kramdown:
 locale: "es-CO"
 
 # URL del sitio
-url: "https://conscientemente.github.io"
+url: "https://conscientementepsicologia.github.io"
 baseurl: ""
 
 # Logo (lo subiremos luego)
@@ -39,13 +39,13 @@ author:
   links:
     - label: "Facebook"
       icon: "fab fa-facebook"
-      url: "https://www.facebook.com/Conscientemente24"
+      url: "https://www.facebook.com/conscientemente24"
     - label: "Instagram"
       icon: "fab fa-instagram"
-      url: "https://instagram.com/conscientemente24"
+      url: "https://instagram.com/conscientemente524"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/Conscientemente"
+      url: "https://github.com/conscientemente"
 
 # Navigation
 collections:
@@ -81,8 +81,8 @@ social:
   type: "Person"
   name: "Diana Riveroz"
   links:
-    - "https://www.facebook.com/Conscientemente24"
-    - "https://instagram.com/conscientemente24"
+    - "https://www.facebook.com/conscientemente24"
+    - "https://instagram.com/conscientemente524"
 
 # Include
 include:
