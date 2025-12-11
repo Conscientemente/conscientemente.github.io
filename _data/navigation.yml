@@ -1,0 +1,13 @@
+main:
+  - title: "Inicio"
+    url: "/"
+  - title: "Sobre mí"
+    url: "/sobre-mi"
+  - title: "Servicios"
+    url: "/servicios"
+  - title: "Preguntas frecuentes"
+    url: "/preguntas-frecuentes"
+  - title: "Blog"
+    url: "/blog"
+  - title: "Contacto"
+    url: "/contacto"
