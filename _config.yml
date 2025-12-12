@@ -1,6 +1,6 @@
 title: "Conscientemente, atención psicológica"
 subtitle: "Acompañamiento terapéutico con evidencia y calidez humana"
-name: "Diana Riveroz"
+name: "Conscientemente"
 email: "conscientemente524@gmail.com"
 description: "Espacio profesional dedicado a la psicoterapia, psicoeducación y bienestar emocional."
 
@@ -32,7 +32,7 @@ breadcrumbs: true
 
 # Author profile
 author:
-  name: "Diana Riveroz"
+  name: "Conscientemente"
   avatar: "/assets/images/avatar.png"
   bio: "Psicóloga clínica. Acompañamiento terapéutico basado en evidencia."
   location: "Colombia"
@@ -47,12 +47,7 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/conscientemente"
 
-# Navigation
-collections:
-  pages:
-    output: true
-    permalink: /:name/
-
+# Defaults
 defaults:
   - scope:
       path: ""
@@ -79,11 +74,11 @@ navigation:
 # Social sharing
 social:
   type: "Person"
-  name: "Diana Riveroz"
+  name: "Conscientemente"
   links:
     - "https://www.facebook.com/conscientemente24"
     - "https://instagram.com/conscientemente524"
 
-# Include
+# Include folders
 include:
   - _pages
