@@ -42,7 +42,7 @@ author:
       url: "https://www.facebook.com/conscientemente24"
     - label: "Instagram"
       icon: "fab fa-instagram"
-      url: "https://instagram.com/conscientemente524"
+      url: "https://instagram.com/somos.conscientemente"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/conscientemente"
@@ -77,7 +77,7 @@ social:
   name: "Conscientemente"
   links:
     - "https://www.facebook.com/conscientemente24"
-    - "https://instagram.com/conscientemente524"
+    - "https://instagram.com/somos.conscientemente"
 
 # Include folders
 include:
